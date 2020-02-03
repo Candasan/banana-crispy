@@ -4,7 +4,7 @@
         <div class="mobile-nav">
             <!-- Navbar Brand -->
             <div class="amado-navbar-brand">
-                <a href="/"><img src="img/core-img/logo.png" alt=""></a>
+                <a href="/"><img src="{{asset('img/core-img/logo.png')}}" alt=""></a>
             </div>
             <!-- Navbar Toggler -->
             <div class="amado-navbar-toggler">
@@ -20,14 +20,14 @@
             </div>
             <!-- Logo -->
             <div class="logo">
-                <a href="/"><img src="img/core-img/logo.png" alt=""></a>
+                <a href="/"><img src="{{asset('img/core-img/logo.png')}}" alt=""></a>
             </div>
 
             
             <!-- Amado Nav -->
             <nav class="amado-nav">
                 <ul>
-                    <li class="active"><a href="/">Beranda</a></li>
+                    <li class="active"><a href="{{url('/')}}'">Beranda</a></li>
                     {{-- <li><a href="shop.html">Shop</a></li>
                     <li><a href="cart.html">Cart</a></li>
                     <li><a href="checkout.html">Checkout</a></li> --}}
@@ -73,9 +73,9 @@
 
             <!-- Cart Menu -->
             <div class="cart-fav-search mb-100">
-                <a href="cart.html" class="cart-nav"><img src="img/core-img/cart.png" alt=""> Cart <span>(0)</span></a>
-                <a href="#" class="fav-nav"><img src="img/core-img/favorites.png" alt=""> Favourite</a>
-                <a href="#" class="search-nav"><img src="img/core-img/search.png" alt=""> Search</a>
+                <a href="cart.html" class="cart-nav"><img src="{{asset('img/core-img/cart.png')}}" alt=""> Cart <span>(0)</span></a>
+                <a href="#" class="fav-nav"><img src="{{asset('img/core-img/favorites.png')}}" alt=""> Favourite</a>
+                <a href="#" class="search-nav"><img src="{{asset('img/core-img/search.png')}}" alt=""> Search</a>
             </div>
             <!-- Social Button -->
             <div class="social-info d-flex justify-content-between">
@@ -94,7 +94,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/tiramisu.jpg" alt="">
+                        <img src="{{asset('img/topp/tiramisu.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -107,14 +107,14 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/2.jpg" alt="">
+                        <img src="{{asset('img/bg-img/2.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/gt.jpg" alt="">
+                        <img src="{{asset('img/topp/gt.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -127,21 +127,21 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/4.jpg" alt="">
+                        <img src="{{asset('img/bg-img/4.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/5.jpg" alt="">
+                        <img src="{{asset('img/bg-img/5.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/ck.jpg" alt="">
+                        <img src="{{asset('img/topp/ck.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -154,7 +154,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/pisang.jpg" alt="">
+                        <img src="{{asset('img/topp/pisang.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -167,7 +167,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/oreo.jpg" alt="">
+                        <img src="{{asset('img/topp/oreo.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -180,28 +180,28 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/9.jpg" alt="">
+                        <img src="{{asset('img/bg-img/9.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/5.jpg" alt="">
+                        <img src="{{asset('img/bg-img/5.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/4.jpg" alt="">
+                        <img src="{{asset('img/bg-img/4.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/taro.jpg" alt="">
+                        <img src="{{asset('img/topp/taro.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -214,7 +214,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/white.jpg" alt="">
+                        <img src="{{asset('img/topp/white.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -227,7 +227,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/kacang.jpg" alt="">
+                        <img src="{{asset('img/topp/kacang.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -240,28 +240,28 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/8.jpg" alt="">
+                        <img src="{{asset('img/bg-img/8.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/4.jpg" alt="">
+                        <img src="{{asset('img/bg-img/4.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/bg-img/5.jpg" alt="">
+                        <img src="{{asset('img/bg-img/5.jpg')}}" alt="">
                     </a>
                 </div>
 
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/stoberi.jpg" alt="">
+                        <img src="{{asset('img/topp/stoberi.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -274,7 +274,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/capp.jpg" alt="">
+                        <img src="{{asset('img/topp/capp.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -287,7 +287,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="img/topp/keju.jpg" alt="">
+                        <img src="{{asset('img/topp/keju.jpg')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>

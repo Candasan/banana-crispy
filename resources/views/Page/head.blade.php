@@ -8,8 +8,8 @@
     <title>Banana Crispy</title>
 
     <!-- Favicon  -->
-    <link rel="icon" href="img/core-img/logo.png">
+    <link rel="icon" href="{{asset('img/core-img/logo.png')}}">
 
     <!-- Core Style CSS -->
-    <link rel="stylesheet" href="css/core-style.css">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="{{asset('css/core-style.css')}}">
+    <link rel="stylesheet" href="{{asset('style.css')}}">

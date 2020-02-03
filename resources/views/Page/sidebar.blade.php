@@ -94,7 +94,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/tiramisu.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/tiramisu.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -114,7 +114,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/gt.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/gt.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -154,7 +154,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/pisang.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/pisang.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -167,7 +167,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/oreo.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/oreo.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -214,7 +214,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/white.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/white.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -227,7 +227,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/kacang.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/kacang.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -261,7 +261,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/stoberi.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/stoberi.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -274,7 +274,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/capp.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/capp.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
@@ -287,7 +287,7 @@
                 <!-- Single Catagory -->
                 <div class="single-products-catagory clearfix">
                     <a href="shop.html">
-                        <img src="{{asset('img/topp/keju.jpg')}}" alt="">
+                        <img src="{{asset('img/topp/keju.JPG')}}" alt="">
                         <!-- Hover Content -->
                         <div class="hover-content">
                             <div class="line"></div>
